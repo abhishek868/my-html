@@ -1,0 +1,10 @@
+flask
+pandas
+fitz
+numpy
+pytesseract
+docx
+pymupdf
+pdf2docx
+python-pptx
+python-docx

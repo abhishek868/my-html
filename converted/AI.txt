@@ -1,0 +1,52 @@
+Slide 1
+==========
+AI for Everyone
+Presidential Initiative for Artificial Intelligence and Computing
+
+
+Slide 2
+==========
+Objectives of this Course
+The meaning behind common AI terminology, including neural networks, machine learning, deep learning, and data science
+What AI realistically can--and cannot--do
+How to spot opportunities to apply AI to problems in your own organization
+What it feels like to build machine learning and data science projects
+How to work with an AI team and build an AI strategy in your company
+How to navigate ethical and societal discussions surrounding AI
+
+
+Slide 3
+==========
+
+$13 Trillion
+AI value creation by 2030
+Source: McKinsey Global Institute
+
+
+Slide 4
+==========
+A lot of the value created by AI will be outside the software industry. AI will have a huge impact on all the major industries.
+
+
+Slide 5
+==========
+There are 2 types of AI
+ANI
+Artificial Narrow Intelligence
+AGI
+Artificial General Intelligence
+LOTS OF PROGRESS
+ALMOST NO PROGRESS
+
+
+Slide 6
+==========
+Artificial Narrow Intelligence (ANI)
+These are AIs that do one thing such as:
+smart speaker
+self-driving car
+AI to do web search
+AI applications in farming or in a factory. 
+These types of AI are one trick ponies but when you find the appropriate trick, this can be incredibly valuable.
+
+
